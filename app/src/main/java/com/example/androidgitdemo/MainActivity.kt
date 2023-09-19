@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
     // second commit  on main branch
 
     // main branch commint 111111
+
+    // main branch commint 222222
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
